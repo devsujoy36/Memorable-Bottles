@@ -1,0 +1,57 @@
+[
+    {
+        "id": "bottle-cocacola",
+        "category": "Bottle",
+        "name": "CocaCola",
+        "seller": "Xenon",
+        "price": "60",
+        "stock": "7",
+        "rating": "4",
+        "ratingsCounts": "55",
+        "img": "./imgs/cocacola.jpg"
+    },
+    {
+        "id": "bottle-mojo",
+        "category": "Bottle",
+        "name": "Mojo",
+        "seller": "mojo-store",
+        "price": "38",
+        "stock": "9",
+        "rating": "4.2",
+        "ratingsCounts": "88",
+        "img": "./imgs/mojo.jpg"
+    },
+    {
+        "id": "bottle-sevenup",
+        "category": "Bottle",
+        "name": "7 UP",
+        "seller": "sevenup-store",
+        "price": "37",
+        "stock": "20",
+        "rating": "4.5",
+        "ratingsCounts": "65",
+        "img": "./imgs/7up.jpg"
+    },
+    {
+        "id": "bottle-pepsi",
+        "category": "Bottle",
+        "name": "Pepsi",
+        "seller": "pepsi-store",
+        "price": "20",
+        "stock": "20",
+        "rating": "4",
+        "ratingsCounts": "58",
+        "img": "./imgs/pepsi.jpg"
+    },
+    {
+        "id": "bottle-fanta",
+        "category": "Bottle",
+        "name": "Fanta",
+        "seller": "fanta-store",
+        "price": "30",
+        "stock": "8",
+        "rating": "4",
+        "ratingsCounts": "55",
+        "img": "./imgs/fanta.jpg"
+    }
+]

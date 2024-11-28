@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Rolex Submariner",
+        "price": 8999.99,
+        "img": "https://example.com/rolex-submariner.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Omega Seamaster",
+        "price": 5500.00,
+        "img": "https://example.com/omega-seamaster.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Tag Heuer Monaco",
+        "price": 3200.00,
+        "img": "https://example.com/tag-heuer-monaco.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Casio G-Shock",
+        "price": 100.00,
+        "img": "https://example.com/casio-g-shock.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Apple Watch Series 8",
+        "price": 399.99,
+        "img": "https://example.com/apple-watch-series-8.jpg"
+    }
+]
